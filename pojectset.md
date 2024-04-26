@@ -64,7 +64,7 @@ setInterval(function () {
 }, 1000);
 ```
 
-####PROJECT 5
+#### PROJECT 4
 
 ```JAVASCRIPT
 let randomNumber = parseInt(Math.random() * 100 + 1);
